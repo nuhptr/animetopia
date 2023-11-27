@@ -4,7 +4,7 @@
 
 ## Getting Started
 
--  [x] Clone the repo
+-  [ ] Clone the repo
 -  [ ] Install dependencies
 -  [ ] Run the development server
 
@@ -12,7 +12,9 @@
 
 -  [x] Next.js
 -  [x] react-intersection-observer (for infinite scroll) - `npm i react-intersection-observer`
+-  [x] framer-motion (for animations) - `npm i framer-motion`
 
 ## Taking Notes
 
 -  [x] ![react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
+-  [x] ![framer-motion](https://www.framer.com/motion/)

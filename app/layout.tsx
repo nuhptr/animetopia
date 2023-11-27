@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
    return (
       <html lang="en">
-         <body className={dmSans.className}>
+         <body className={dmSans.className} suppressHydrationWarning>
             <main className="max-w-7xl mx-auto bg-[#0F1117]">
                <Hero />
                {children}

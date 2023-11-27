@@ -11,5 +11,8 @@
 ## Dependencies
 
 -  [x] Next.js
+-  [x] react-intersection-observer (for infinite scroll) - `npm i react-intersection-observer`
 
 ## Taking Notes
+
+-  [x] ![react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
